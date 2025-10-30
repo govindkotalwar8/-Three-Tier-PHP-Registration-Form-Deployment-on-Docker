@@ -304,13 +304,6 @@ mysql> SELECT * FROM users;
 
 ---
 
-## 🧾 Author
-
-**Deployed by:** *Your Name*
-**Environment:** AWS EC2 (Amazon Linux 2023)
-**Tools:** Docker, Docker Compose, Nginx, PHP-FPM, MySQL
-
----
 
 ## 🎯 Outcome
 
